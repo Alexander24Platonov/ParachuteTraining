@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parachute</string>
+    <string name="autorizeNme">Введите имя пользователя</string>
+    <string name="regMenueHomeBtn">Новый пользователь</string>
+    <string name="TheoryBtn">Теория</string>
+    <string name="DifSlctTxt">Выбор уровня сложности</string>
+    <string name="DifOne">RadioButton</string>
+    <string name="DifTwo">RadioButton</string>
+    <string name="StartBtn">Начать</string>
+    <string name="MainMenueFromTheory">Главное меню</string>
+    <string name="NextBtn">Далее</string>
+    <string name="PhotoToQuestion">PhotoToQuestion</string>
+    <string name="regBtn">Продолжить</string>
+    <string name="answ1">Button</string>
+    <string name="answ2">Button</string>
+    <string name="answ4">Button</string>
+    <string name="answ3">Button</string>
+    <string name="raightTxt">Правильный ответ!</string>
+    <string name="NextQbtn">Далее</string>
+    <string name="WrongTxt">Неправильный ответ!</string>
+    <string name="NextQst">Далее</string>
+</resources>
